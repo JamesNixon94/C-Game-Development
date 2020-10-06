@@ -1,5 +1,6 @@
 #include <iostream>
 #include <ctime>
+
 void PrintIntroduction(int Difficulty)
 {
     //Print welcome messages to the terminal
